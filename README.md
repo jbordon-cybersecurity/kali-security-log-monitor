@@ -23,17 +23,16 @@ Built to practice log monitoring, alerting, and scripting for security operation
 
 ## How to Run
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/jbordon-cybersecurity/kali-security-log-monitor.git
 cd kali-security-log-monitor
 
-### 2. Run the script
-bash
-Copiar código
+### Run the script
+
 sudo python3 log_monitor.py
 
-### 3. Simulate a failed login (test alert)
+### Simulate a failed login (test alert)
 Open a second terminal and run:
 
 ssh fakeuser@localhost
