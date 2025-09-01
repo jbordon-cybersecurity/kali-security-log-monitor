@@ -48,7 +48,6 @@ kali-security-log-monitor/
 │
 ├── log_monitor.py   # Main script
 ├── README.md        # Documentation
-├── LICENSE          # MIT License (optional)
 └── .gitignore       # Ignored files and folders
 
 
